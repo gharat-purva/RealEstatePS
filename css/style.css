@@ -577,11 +577,11 @@ a:focus {
 }
 
 .price_section .price_container .box:hover .detail-box {
-  background-color: #f9bc16;
+  background-color: #b59dfa;
 }
 
 .price_section .price_container .box:hover .btn-box a {
-  background-color: #f9bc16;
+  background-color: #b59dfa;
 }
 
 .deal_section {
